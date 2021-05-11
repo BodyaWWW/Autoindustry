@@ -33,6 +33,8 @@ class Automobile:
     def privet(self):
      pass
 
+print('hi')
+
 
 
 mazda_cx = Automobile()
