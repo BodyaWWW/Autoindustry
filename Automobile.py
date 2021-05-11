@@ -34,7 +34,7 @@ class Automobile:
      pass
 
 print('hi')
-
+print("пока")
 
 
 mazda_cx = Automobile()
