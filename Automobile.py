@@ -33,8 +33,7 @@ class Automobile:
     def privet(self):
      pass
 
-print('hi')
-print("пока")
+
 
 
 mazda_cx = Automobile()
